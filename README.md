@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sanafarzadian
+- 👀 I’m interested in AI, especially in Deep Learning and Large Language Models (LLMs)
+- 🌱 I’m currently learning about Deep Learning techniques and exploring various LLMs
+- 💞️ I’m looking to collaborate on AI and machine learning projects, particularly those involving random forest classifiers and regressors
+- 📫 How to reach me: farzadiansana@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love discovering new AI applications and enjoy coding challenges in my free time!
